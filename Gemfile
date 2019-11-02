@@ -8,3 +8,10 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Add Jekyll as a dependency
 gem "jekyll"
+
+# Add basic plugins
+group :jekyll_plugins do
+    gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
+end
