@@ -1,6 +1,10 @@
 collections:
   authors:
     output: true
+  algebra1-2:
+    output: true
+  cs1-2:
+    output: true
 
 defaults:
   - scope:
