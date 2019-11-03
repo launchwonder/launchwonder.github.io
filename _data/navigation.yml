@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Algebra 1-2
   link: /algebra1-2
+- name: Computer Science 1-2
+  link: /cs1-2
+- name: About
+  link: /about.html
