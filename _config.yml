@@ -1,3 +1,9 @@
+# General info
+baseurl:     ""
+url:         "http://launchwonder.com"
+date_format: "%b %-d, %Y"
+
+# Collections
 collections:
   authors:
     output: true
@@ -6,6 +12,7 @@ collections:
   cs1-2:
     output: true
 
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -22,6 +29,7 @@ defaults:
     values:
       layout: "default"
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
