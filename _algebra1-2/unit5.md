@@ -1,6 +1,6 @@
 ---
 name: Unit 5
-short_name: unit5
 topic: Two Variable Stats
+published: false
 ---
 Two variable stats content.

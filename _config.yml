@@ -5,8 +5,6 @@ date_format: "%b %-d, %Y"
 
 # Collections
 collections:
-  authors:
-    output: true
   algebra1-2:
     output: true
   cs1-2:
@@ -14,16 +12,6 @@ collections:
 
 # Defaults
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
   - scope:
       path: ""
     values:
