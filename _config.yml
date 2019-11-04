@@ -6,11 +6,11 @@ date_format: "%b %-d, %Y"
 # Collections
 collections_dir: courses
 collections:
-  algebra1-2:
-    title: Algebra 1-2
+  algebra:
+    title: Algebra
     output: true
-  cs1-2:
-    title: Computer Science 1-2
+  computerscience:
+    title: Computer Science
     output: true
 
 # Defaults
