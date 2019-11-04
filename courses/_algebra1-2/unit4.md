@@ -1,5 +1,5 @@
 ---
-name: Unit 4
+title: Unit 4
 topic: Two Variable Stats
 ---
 

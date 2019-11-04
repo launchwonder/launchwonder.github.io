@@ -6,7 +6,7 @@ layout: default
 <ul>
   {% for unit in site[page.collection] %}
     <li>
-      <h2><a href="{{ unit.url }}">{{ unit.name }}</a></h2>
+      <h2><a href="{{ unit.url }}">{{ unit.title }}</a></h2>
       <h3>{{ unit.topic }}</h3>
       <p>{{ unit.content | markdownify }}</p>
     </li>
