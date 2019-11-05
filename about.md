@@ -1,5 +1,6 @@
 ---
 title: About
+layout: content
 ---
 
 # About page
@@ -11,3 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae sollicitudi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae sollicitudin turpis. Etiam posuere, erat id ultricies bibendum, lorem nibh fringilla augue, consectetur efficitur libero velit eu mauris. Donec tempus elit ac lectus aliquet, at tempor ipsum finibus. Maecenas viverra sapien eget ligula luctus, vitae consectetur felis pellentesque. Nulla ultricies molestie eleifend. Sed id laoreet sapien, vitae placerat quam. Vivamus congue sit amet augue ac tristique. Suspendisse ac sem dignissim, dapibus sem at, consequat turpis. Nulla fringilla massa sit amet mi scelerisque, at molestie augue auctor. Nam eu orci pellentesque, pellentesque nunc eget, sagittis ante. Nam vestibulum orci dapibus, sollicitudin sapien et, pellentesque justo. Nulla dictum mauris ac fringilla convallis. Mauris tempor mauris nec lorem consequat, at elementum metus vulputate. Nulla eu sapien laoreet, mollis sapien id, efficitur diam. Duis massa ante, hendrerit vitae magna in, rutrum auctor nisl.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae sollicitudin turpis. Etiam posuere, erat id ultricies bibendum, lorem nibh fringilla augue, consectetur efficitur libero velit eu mauris. Donec tempus elit ac lectus aliquet, at tempor ipsum finibus. Maecenas viverra sapien eget ligula luctus, vitae consectetur felis pellentesque. Nulla ultricies molestie eleifend. Sed id laoreet sapien, vitae placerat quam. Vivamus congue sit amet augue ac tristique. Suspendisse ac sem dignissim, dapibus sem at, consequat turpis. Nulla fringilla massa sit amet mi scelerisque, at molestie augue auctor. Nam eu orci pellentesque, pellentesque nunc eget, sagittis ante. Nam vestibulum orci dapibus, sollicitudin sapien et, pellentesque justo. Nulla dictum mauris ac fringilla convallis. Mauris tempor mauris nec lorem consequat, at elementum metus vulputate. Nulla eu sapien laoreet, mollis sapien id, efficitur diam. Duis massa ante, hendrerit vitae magna in, rutrum auctor nisl.
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PYOSKYWg-5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
