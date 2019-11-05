@@ -1,3 +1,5 @@
+// --- Raw CSS styles go here ---
+
 // Show videos as responsive and full width
 .video-responsive{
     overflow:hidden;
@@ -16,4 +18,14 @@
 // Make columns in index.html same height
 #home-card {
     height: 100%;
-  }
+}
+
+// Force footer to bottom of page
+.main {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.section {
+    flex: 1;
+}

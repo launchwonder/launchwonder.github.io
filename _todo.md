@@ -1,0 +1,2 @@
+- Style unit pages to include subject and unit number
+- Make navigation.html rely on data in data/navigation.yml
