@@ -1,3 +1,4 @@
+// Show videos as responsive and full width
 .video-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -11,3 +12,7 @@
     width:100%;
     position:absolute;
 }
+
+.column {
+    height: 100%;
+  }
