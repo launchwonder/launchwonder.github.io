@@ -3,8 +3,14 @@
 @charset "utf-8";
 
 // --- Bulma styles go here ---
+// Update Bulma's derived variables
+@import "../_bulma/sass/utilities/initial-variables.sass";
 
+// Make footer smaller
 $footer-padding: 0.5rem 1.5rem 0.5rem;
+
+// Make navbar break narrower
+$navbar-breakpoint: $tablet;
 
 // Import Bulma
 @import "../_bulma/bulma.sass";
