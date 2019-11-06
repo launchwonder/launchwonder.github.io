@@ -3,11 +3,21 @@ layout: default
 ---
 <h1 class="title has-text-centered">{{ page.title }}</h1>
 
+<div class="columns is-centered is-multiline">
 {% for unit in site[page.collection] %}
-<div class="box">
+<div class="column">
+  <a href="{{ unit.url}}">
+    <div id="home-card" class="notification is-primary">
+      <h2 class="title has-text-centered">{{ unit.title }}</h1>
+    </div>
+  </a>
+</div>
+{% endfor %}
+</div>
+
+<!-- <div class="box">
 
   <h2 class="subtitle"><a href="{{ unit.url }}">{{ unit.title }}</a></h2>
   <h3>{{ unit.topic }}</h3>
   <p>{{ unit.content | markdownify }}</p>
-</div>
-{% endfor %}
+</div> -->
