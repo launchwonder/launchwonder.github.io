@@ -3,12 +3,12 @@ layout: default
 ---
 <h1 class="title has-text-centered">{{ page.title }}</h1>
 
-<div class="columns is-centered is-multiline">
+<div class="columns is-multiline">
 {% for unit in site[page.collection] %}
-<div class="column">
-  <a href="{{ unit.url}}">
+<div class="column is-4">
+  <a href="{{ unit.url }}">
     <div id="home-card" class="notification is-danger">
-      <h2 class="title has-text-centered">{{ unit.title }}</h1>
+      <h2 class="title has-text-centered">Unit {{ unit.unit }}</h1>
     </div>
   </a>
 </div>
