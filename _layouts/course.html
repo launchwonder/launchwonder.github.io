@@ -9,15 +9,9 @@ layout: default
   <a href="{{ unit.url }}">
     <div id="home-card" class="notification is-danger">
       <h2 class="title has-text-centered">Unit {{ unit.unit }}</h1>
+      <h3 class="subtitle has-text-centered">{{ unit.topic }}</h3>
     </div>
   </a>
 </div>
 {% endfor %}
 </div>
-
-<!-- <div class="box">
-
-  <h2 class="subtitle"><a href="{{ unit.url }}">{{ unit.title }}</a></h2>
-  <h3>{{ unit.topic }}</h3>
-  <p>{{ unit.content | markdownify }}</p>
-</div> -->
