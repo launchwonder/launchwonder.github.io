@@ -29,3 +29,8 @@
 .section {
     flex: 1;
 }
+
+// Prevent word breaks
+.title, .subtitle {
+    word-break: normal;
+}
