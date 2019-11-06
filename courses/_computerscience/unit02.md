@@ -1,5 +1,5 @@
 ---
-title: Unit 2
+unit: 2
 topic: Two Variable Stats
 published: true
 ---
