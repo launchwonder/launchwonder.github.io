@@ -17,3 +17,6 @@ $navbar-breakpoint: $tablet;
 
 // Import custom styles from _sass/main.scss
 @import "main";
+
+// Import syntax highlighting file from _sass/syntax.scss
+@import "syntax";
