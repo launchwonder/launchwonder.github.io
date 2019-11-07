@@ -1,7 +1,6 @@
 ---
-unit: 4
+title: Unit 4
 topic: Two Variable Stats
-layout: content
 published: true
 ---
 
