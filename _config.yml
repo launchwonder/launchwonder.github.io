@@ -19,6 +19,16 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "algebra"
+    values:
+      layout: "content"
+  - scope:
+      path: ""
+      type: "computerscience"
+    values:
+      layout: "content"
 
 # Plugins
 plugins:
