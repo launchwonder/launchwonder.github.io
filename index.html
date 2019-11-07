@@ -1,19 +1,14 @@
 ---
 title: Home
 ---
-<div class="columns is-centered is-multiline is-mobile">
-    <div class="column">
-        <a href="/algebra.html">
+<div class="columns is-multiline is-centered">
+    {% for item in site.data.navigation %}
+    <div class="column is-6">
+        <a href="{{ item.link }}">
             <div id="home-card" class="notification is-primary">
-                <h1 class="title has-text-centered">Algebra</h1>
+                <h1 class="title has-text-centered">{{ item.name }}</h1>
             </div>
         </a>
     </div>
-    <div class="column">
-        <a href="/computerscience.html">
-            <div id="home-card" class="notification is-warning">
-                <h1 class="title has-text-centered">Computer Science</h1>
-            </div>
-        </a>
-    </div>
+    {% endfor %}
 </div>
