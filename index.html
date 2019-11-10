@@ -1,14 +1,18 @@
 ---
 title: Home
 ---
-<div class="columns is-multiline is-centered">
-    {% for item in site.data.navigation %}
-    <div class="column is-6">
-        <a href="{{ item.link }}">
-            <div id="home-card" class="notification is-primary">
-                <h1 class="title has-text-centered">{{ item.name }}</h1>
+<section class="section">
+    <div class="container">
+        <div class="columns is-multiline is-centered">
+            {% for item in site.data.navigation %}
+            <div class="column is-6">
+                <a href="{{ item.link }}">
+                    <div id="home-card" class="notification is-primary">
+                        <h1 class="title has-text-centered">{{ item.name }}</h1>
+                    </div>
+                </a>
             </div>
-        </a>
+            {% endfor %}
+        </div>
     </div>
-    {% endfor %}
-</div>
+</section>

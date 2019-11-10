@@ -23,12 +23,12 @@ defaults:
       path: ""
       type: "algebra"
     values:
-      layout: "content"
+      layout: "unit"
   - scope:
       path: ""
       type: "computerscience"
     values:
-      layout: "content"
+      layout: "unit"
 
 # Plugins
 plugins:
