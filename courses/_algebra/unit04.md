@@ -6,25 +6,24 @@ published: true
 
 ### Contents <!-- omit in toc -->
 - [Vocabulary](#vocabulary)
-    - [Slope-intercept form](#slope-intercept-form)
+    - [Slope](#slope)
     - [Point-slope form](#point-slope-form)
+    - [Slope-intercept form](#slope-intercept-form)
     - [Standard form](#standard-form)
 - [Tutorials](#tutorials)
 - [Practice Tests](#practice-tests)
 
 ### Vocabulary
 
-##### Slope-intercept form
+##### Slope
 
-$y = mx + b$
+How steep a line is. When a line moves *up* from left to right, it has **positive** slope. When a line moves *down* from left to right, it has **negative** slope. A line which is flat (horizontal) has **zero** slope. A line which is perfectly vertical has **undefined** slope. 
 
-where:
-- $m$ is the slope of the line
-- $b$ is the $y$-intercept, or the point where the line crosses the $y$ (vertical) axis
+Slope, often denoted $m$, can be calculated by dividing the change in the $y$ direction by the change in the $x$ direction:
 
-Slope-intercept form is useful when you know two things:
-- The slope of a line
-- The point where the line crosses the $y$ (vertical) axis
+$$
+m = \frac{y_2-y_1}{x_2-x_1}
+$$
 
 ##### Point-slope form 
 
@@ -48,6 +47,18 @@ $$
 y_2 - y_1 & = m(x_2 - x_1) && \text{since } \frac{(x_2 - x_1)}{(x_2 - x_1)} = 1
 \end{align}
 $$
+
+##### Slope-intercept form
+
+$y = mx + b$
+
+where:
+- $m$ is the slope of the line
+- $b$ is the $y$-intercept, or the point where the line crosses the $y$ (vertical) axis
+
+Slope-intercept form is useful when you know two things:
+- The slope of a line
+- The point where the line crosses the $y$ (vertical) axis
 
 ##### Standard form
 
