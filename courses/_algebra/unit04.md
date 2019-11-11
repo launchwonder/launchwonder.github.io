@@ -1,148 +1,30 @@
 ---
 title: Unit 4
-topic: Two Variable Stats
+topic: "Linear Equations: Standard and Point-Slope Form"
 published: true
 ---
 
-An h1 header
-============
+### Contents <!-- omit in toc -->
+- [Vocabulary](#vocabulary)
+- [Practice Tests](#practice-tests)
 
-Paragraphs are separated by a blank line.
+### Vocabulary
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+**Standard form:** $Ax + By = C$, where: 
+- $A$, $B$, and $C$ are constants
+- $x$ and $y$ are variables
 
-  * this one
-  * that one
-  * the other one
+Standard form can be used in situations where two variables are changing simultaneously. For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$10 and hats are \\$15. The standard form equation that models this situation would be $10s + 15h = 100$, where $s$ represents the number of socks Ali purchased and $h$ represents the number of hats Ali purchased. So if Ali buys 7 pairs of socks at a cost of \\$70, he'll be able to buy 2 hats at a cost of \\$30. He could also buy 10 pairs of socks and no hats, or one pair of socks and 6 hats, all at a *total* cost of \\$100.
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+**Point-slope form:** $y - y_1 = m(x - x_1)$, where: 
+- $m$ is the slope of the line
+- $x_1$ and $y_1$ are the coordinates of a point on the line
+- $x$ and $y$ are any other point on the line
 
 
 
-An h2 header
-------------
+### Practice Tests
 
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-```python
-define foobar() {
-    print "Welcome to flavor country!";
-}
-```
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
-
-```python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print i
-```
-
-
-
-### An h3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Footnote text goes here.
-
-Tables can look like this:
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
-Table: Shoes, their sizes, and what they're made of
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-oranges
-  : Citrus!
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term/definition pair to spread things out more.)
-
-Here's a "line block":
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://live.staticflickr.com/4823/45178144634_4da2f19296_k.jpg "An exemplary image")
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-
-And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+- [Target A](https://docs.google.com/forms/d/e/1FAIpQLSfdjMShxm1FjIxjmg_qVdqP4XQ38x0f86cX4CjFc3xl5qi88w/viewform): I can model a linear relationship with a standard or point-slope form equation.
+- [Target B](https://docs.google.com/forms/d/e/1FAIpQLSfwl0J2nFi5_LlUxOtnilfhtXLxrdpsKvAxTD5U6MY34MGlBw/viewform): I can change a linear equation from standard and/or point-slope form eqaution to slope intercept form.
+- [Target C](https://docs.google.com/forms/d/e/1FAIpQLSf6lQ-GOXLKsM0XaoPQ7KWra0290Ax3l41-DOdPbykgMGxUeg/viewform): I can link the form of a linear equation to particular contexts.
