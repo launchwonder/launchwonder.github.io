@@ -34,3 +34,8 @@
 .title, .subtitle {
     word-break: normal;
 }
+
+// Give some extra space for h5's
+.content h5 {
+    margin-top: 1em;
+}
