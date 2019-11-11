@@ -9,11 +9,23 @@
   <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   {% feed_meta %}
   {% seo %}
+  <!--MathJax-->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"></script>
 </head>
 
 <body class="main">
   {% include navigation.html %}
-  
+
   {{ content }}
 
   {% include footer.html %}
