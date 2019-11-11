@@ -85,11 +85,15 @@ For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$1
 
 ##### Graphing in standard form
 
+<div class="responsive-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Y-Y0mpYHu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ##### Converting from standard form to slope-intercept form
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLOwoCTOIXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SLOwoCTOIXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Practice Tests
 
