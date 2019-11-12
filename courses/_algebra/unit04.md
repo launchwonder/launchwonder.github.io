@@ -14,6 +14,7 @@ published: true
 - [Tutorials](#tutorials)
     - [Graphing in standard form](#graphing-in-standard-form)
     - [Converting from standard form to slope-intercept form](#converting-from-standard-form-to-slope-intercept-form)
+- [Homework (2019-2020)](#homework-2019-2020)
 - [Practice Tests](#practice-tests)
 
 ### Targets
@@ -43,6 +44,10 @@ where:
 - $x_1$ and $y_1$ are the coordinates of a point on the line
 - $x$ and $y$ are any other point on the line
 
+You may also see it in the form:
+
+$y = m(x - x_1) + y_1$
+
 Point-slope form is useful when you know two things: 
 - The slope of a line
 - The coordinates of a point on that line
@@ -53,7 +58,7 @@ $$
 \begin{align}
 \frac{y_2 - y_1}{x_2 - x_1} & = m \\ 
 (x_2 - x_1) \cdot \frac{y_2 - y_1}{x_2 - x_1} & = m(x_2 - x_1) \\
-y_2 - y_1 & = m(x_2 - x_1) && \text{since } \frac{(x_2 - x_1)}{(x_2 - x_1)} = 1
+y_2 - y_1 & = m(x_2 - x_1)
 \end{align}
 $$
 
@@ -94,6 +99,20 @@ For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$1
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SLOwoCTOIXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Homework (2019-2020)
+- Page 17: Odds
+- Page 18: Odds
+- Page 19: Find three equations
+- Page 20: All
+- Page 21: All
+- Page 22: All
+- Page 23: Even
+- Page 24: Odd
+- Page 25-26: Any three
+- Page 27: All on top half, then odds
+- Page 29-31: Any two
+- Practice Test: All
 
 ### Practice Tests
 
