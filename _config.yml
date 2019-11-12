@@ -9,9 +9,12 @@ collections:
   algebra:
     title: Algebra
     output: true
+  algebrasupport:
+    title: Algebra Support
+    output: true
   computerscience:
     title: Computer Science
-    output: true
+    output: false
 
 # Defaults
 defaults:
@@ -22,6 +25,11 @@ defaults:
   - scope:
       path: ""
       type: "algebra"
+    values:
+      layout: "unit"
+  - scope:
+      path: ""
+      type: "algebrasupport"
     values:
       layout: "unit"
   - scope:
