@@ -37,7 +37,9 @@ $$
 
 ##### Point-slope form 
 
-$y - y_1 = m(x - x_1)$
+$$
+y - y_1 = m(x - x_1)
+$$
 
 where: 
 - $m$ is the slope of the line
@@ -46,7 +48,9 @@ where:
 
 You may also see it in the form:
 
-$y = m(x - x_1) + y_1$
+$$
+y = m(x - x_1) + y_1
+$$
 
 Can you see how these two point-slope forms are equivalent?
 
@@ -66,7 +70,9 @@ $$
 
 ##### Slope-intercept form
 
-$y = mx + b$
+$$
+y = mx + b
+$$
 
 where:
 - $m$ is the slope of the line
@@ -78,7 +84,9 @@ Slope-intercept form is useful when you know two things:
 
 ##### Standard form
 
-$Ax + By = C$
+$$
+Ax + By = C
+$$
 
 where: 
 - $A$, $B$, and $C$ are constants
