@@ -38,18 +38,18 @@ $$
 ##### Point-slope form 
 
 $$
-y - y_1 = m(x - x_1)
+\color{blue}y - \color{green}{y_1} = \color{red}m(\color{blue}x - \color{green}{x_1})
 $$
 
 where: 
-- $m$ is the slope of the line
-- $x_1$ and $y_1$ are the coordinates of a point on the line
-- $x$ and $y$ are any other point on the line
+- $\color{red}m$ is the slope of the line
+- $\color{green}{x_1}$ and $\color{green}{y_1}$ are the coordinates of a point on the line
+- $\color{blue}x$ and $\color{blue}y$ are any other point on the line
 
 You may also see it in the form:
 
 $$
-y = m(x - x_1) + y_1
+\color{blue}y = \color{red}m(\color{blue}x - \color{green}{x_1}) + \color{green}{y_1}
 $$
 
 Can you see how these two point-slope forms are equivalent?
@@ -71,12 +71,12 @@ $$
 ##### Slope-intercept form
 
 $$
-y = mx + b
+y = \color{red}mx + \color{maroon}b
 $$
 
 where:
-- $m$ is the slope of the line
-- $b$ is the $y$-intercept, or the point where the line crosses the $y$ (vertical) axis
+- $\color{red}m$ is the slope of the line
+- $\color{maroon}b$ is the $y$-intercept, or the point where the line crosses the $y$ (vertical) axis
 
 Slope-intercept form is useful when you know two things:
 - The slope of a line
@@ -85,12 +85,12 @@ Slope-intercept form is useful when you know two things:
 ##### Standard form
 
 $$
-Ax + By = C
+\color{teal}A\color{purple}x + \color{teal}B\color{purple}y = \color{teal}C
 $$
 
 where: 
-- $A$, $B$, and $C$ are constants
-- $x$ and $y$ are variables
+- $\color{teal}A$, $\color{teal}B$, and $\color{teal}C$ are constants
+- $\color{purple}x$ and $\color{purple}y$ are variables
 
 Standard form can be used in situations where two variables are changing simultaneously. Or in other words, when you want to find out how proportions of two items add together to a known total (weight, cost, etc.).
 
