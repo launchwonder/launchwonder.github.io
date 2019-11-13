@@ -4,20 +4,20 @@ layout: default
 <section class="section">
   <div class="container">
 
-<h1 class="title">{{ page.title }}</h1>
+    <h1 class="title">{{ page.title }}</h1>
 
-<div class="columns is-multiline">
-{% for unit in site[page.collection] %}
-<div class="column is-4">
-  <a href="{{ unit.url }}">
-    <div id="home-card" class="notification is-danger">
-      <h2 class="title has-text-centered">{{ unit.title }}</h1>
-      <h3 class="subtitle has-text-centered">{{ unit.topic }}</h3>
+    <div class="columns is-multiline">
+      {% for unit in site[page.collection] %}
+      <div class="column is-4">
+        <a href="{{ unit.url }}">
+          <div id="home-card" class="notification is-danger">
+            <h2 class="title has-text-centered">{{ unit.title }}</h1>
+              <h3 class="subtitle has-text-centered">{{ unit.topic }}</h3>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
     </div>
-  </a>
-</div>
-{% endfor %}
-</div>
 
-</div>
+  </div>
 </section>
