@@ -48,6 +48,8 @@ You may also see it in the form:
 
 $y = m(x - x_1) + y_1$
 
+Can you see how these two point-slope forms are equivalent?
+
 Point-slope form is useful when you know two things: 
 - The slope of a line
 - The coordinates of a point on that line
