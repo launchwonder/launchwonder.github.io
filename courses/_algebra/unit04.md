@@ -1,6 +1,7 @@
 ---
 title: Unit 4
 topic: "Linear Equations: Standard and Point-Slope Form"
+permalink: pointslopestandard
 published: true
 ---
 
