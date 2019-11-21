@@ -20,8 +20,10 @@ published: false
 
 ### Targets
 
-- Target 5A: I can define and represent two quantitative variables on a scatter plot and describe how the variables are related (direction, shape, strength).
-- 
+- Target 5A:  I can define and represent two quantitative variables on a scatter plot and describe how the variables are related (direction, shape, strength).
+- Target 5B: I can distinguish between data sets that should be modeled by a linear function compared with an exponential function or other relationship.
+- Target 5C: I can explain what the parameters of a model mean in the context of the situation (rate of change, initial value).
+- Target 5D: I can differentiate between categorical and quantitative data.
 
 ### Vocabulary
 
