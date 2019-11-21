@@ -14,6 +14,7 @@ published: true
 - [Tutorials](#tutorials)
     - [Graphing in standard form](#graphing-in-standard-form)
     - [Converting from standard form to slope-intercept form](#converting-from-standard-form-to-slope-intercept-form)
+    - [Graphing standard form](#graphing-standard-form)
 - [Homework (2019-2020)](#homework-2019-2020)
 - [Practice Tests](#practice-tests)
 
@@ -108,6 +109,12 @@ For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$1
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SLOwoCTOIXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Graphing standard form
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5_0BfWlm2eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Homework (2019-2020)
