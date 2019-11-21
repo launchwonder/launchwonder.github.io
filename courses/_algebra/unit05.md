@@ -1,7 +1,7 @@
 ---
 title: Unit 5
 topic: "Two Variable Statistics"
-permalink: twovarstats
+permalink: twovarstats/
 published: false
 ---
 
