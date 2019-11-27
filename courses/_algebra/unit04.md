@@ -9,6 +9,7 @@ published: true
 - [Targets](#targets)
 - [Vocabulary](#vocabulary)
     - [Slope](#slope)
+    - [$y$-intercept](#y-intercept)
     - [Point-slope form](#point-slope-form)
     - [Slope-intercept form](#slope-intercept-form)
     - [Standard form](#standard-form)
@@ -31,11 +32,17 @@ published: true
 
 How steep a line is. When a line moves *up* from left to right, it has **positive** slope. When a line moves *down* from left to right, it has **negative** slope. A line which is flat (horizontal) has **zero** slope. A line which is perfectly vertical has **undefined** slope. 
 
-Slope, often denoted $m$, can be calculated by dividing the change in the $y$ direction by the change in the $x$ direction:
+Slope, often denoted $m$, can be calculated by dividing the change in the $y$ direction ($\Delta y$) by the change in the $x$ direction ($\Delta x$):
 
 $$
-m = \frac{y_2-y_1}{x_2-x_1}
+m = \frac{\Delta y}{\Delta x} = \frac{y_2-y_1}{x_2-x_1}
 $$
+
+Note that $\Delta$ (the delta symbol) means *change*.
+
+##### $y$-intercept
+
+The point at which a line or curve crosses the $y$ axis. Usually denoted $(0, y_1)$. For example the $y$-intercept of the line $y=12x-4$ is at $(0,-4)$.
 
 ##### Point-slope form 
 
