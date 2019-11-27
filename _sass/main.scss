@@ -39,3 +39,10 @@
 .content h5 {
     margin-top: 2em;
 }
+
+// Prevent full-width images
+img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+}
