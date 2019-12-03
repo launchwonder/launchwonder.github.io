@@ -96,7 +96,10 @@ See definition in [Unit 4](/pointslopestandard/#y-intercept).
 </div> -->
 
 ### Homework (2019-2020)
-To be determined.
+- Pages 17 - 20 (Scatter plots, correlation, line of best fit): All
+- Pages 21 - 22 (Residuals and data types): All
+- Pages 23 - 25 (Linear regression in context): All
+- Pages 26 - 32 (Unit review): All 
 
 ### Practice Tests
 
