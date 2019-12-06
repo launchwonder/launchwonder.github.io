@@ -40,13 +40,14 @@
     margin-top: 2em;
 }
 
-// Prevent full-width images
+// Constrain images
 img {
     width: 100%;
     max-width: 500px;
     display: block;
 }
 
+// Constrain image captions
 img + em {
     width: 100%;
     max-width: 500px;
