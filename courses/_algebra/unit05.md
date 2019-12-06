@@ -77,7 +77,12 @@ A number which shows how spread out a data set is.
 
 ##### Residual
 
-The vertical distance between a point from a scatter plot and the scatter plot's line of best fit.
+The vertical distance between a point from a scatter plot and the scatter plot's line of best fit. The formula for finding the residual is:
+
+> **residual** = **actual** $y$ value (plotted point) – **expected** $y$ value (line of best fit)
+
+![line of best fit](/images/burgerville-residuals.png)
+*Desmos can display residuals when calculating a linear regression. For example, in the graph above (which can be accessed [here](https://www.desmos.com/calculator/ep8zzjxobv)), the green dots are actual values and the blue dots are residuals. Their distance above or below the $x$ axis represents how far away the data point is from the line of best fit.*
 
 ##### Slope
 
