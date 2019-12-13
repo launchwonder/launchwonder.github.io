@@ -17,8 +17,9 @@ published: true
     - [Direction of correlation](#direction-of-correlation)
     - [Standard deviation](#standard-deviation)
     - [Residual](#residual)
+    - [Lurking variable](#lurking-variable)
     - [Slope](#slope)
-    - [$y$-intercept](#y-intercept)
+    - [<math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math>y-intercept](#mathsemanticsmrowmiymimrowannotation-encoding%22applicationx-tex%22yannotationsemanticsmathy-intercept)
 - [Homework (2019-2020)](#homework-2019-2020)
 - [Practice Tests](#practice-tests)
 
@@ -83,6 +84,10 @@ The vertical distance between a point from a scatter plot and the scatter plot's
 
 ![line of best fit](/images/burgerville-residuals.png)
 *Desmos can display residuals when calculating a linear regression. For example, in the graph above (which can be accessed [here](https://www.desmos.com/calculator/ep8zzjxobv)), the green dots are actual values and the blue dots are residuals. Their distance above or below the $x$ axis represents how far away the data point is from the line of best fit.*
+
+##### Lurking variable
+
+An extraneous or unknown variable that influences the variable or variables under investigation.
 
 ##### Slope
 
