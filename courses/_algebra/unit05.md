@@ -19,7 +19,7 @@ published: true
     - [Residual](#residual)
     - [Lurking variable](#lurking-variable)
     - [Slope](#slope)
-    - [<math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math>y-intercept](#mathsemanticsmrowmiymimrowannotation-encoding%22applicationx-tex%22yannotationsemanticsmathy-intercept)
+    - [y-intercept](#y-intercept)
 - [Homework (2019-2020)](#homework-2019-2020)
 - [Practice Tests](#practice-tests)
 
@@ -93,7 +93,7 @@ An extraneous or unknown variable that influences the variable or variables unde
 
 See definition in [Unit 4](/pointslopestandard/#slope).
 
-##### $y$-intercept
+##### y-intercept
 
 See definition in [Unit 4](/pointslopestandard/#y-intercept).
 
