@@ -18,6 +18,8 @@ published: true
     - [Standard deviation](#standard-deviation)
     - [Residual](#residual)
     - [Lurking variable](#lurking-variable)
+    - [Quantitative data](#quantitative-data)
+    - [Categorical data](#categorical-data)
     - [Slope](#slope)
     - [y-intercept](#y-intercept)
 - [Homework (2019-2020)](#homework-2019-2020)
@@ -88,6 +90,14 @@ The vertical distance between a point from a scatter plot and the scatter plot's
 ##### Lurking variable
 
 An extraneous or unknown variable that influences the variable or variables under investigation.
+
+##### Quantitative data
+
+Data which is based on number. For example, if I asked a group of people how tall they were, then the resulting data would be quantitative data. Often defined in contrast to categorical data, which is based on categories.
+
+##### Categorical data
+
+Data which can be divided into categories. For example, if I asked a group of people what state they were born in, the resulting data would be categorical data. Often defined in contrast to quantitative data, which is based on quantity. 
 
 ##### Slope
 
