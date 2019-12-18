@@ -9,7 +9,7 @@ published: true
 - [Targets](#targets)
 - [Vocabulary](#vocabulary)
     - [Slope](#slope)
-    - [$y$-intercept](#y-intercept)
+    - [<math><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math>y-intercept](#mathsemanticsmrowmiymimrowannotation-encoding%22applicationx-tex%22yannotationsemanticsmathy-intercept)
     - [Point-slope form](#point-slope-form)
     - [Slope-intercept form](#slope-intercept-form)
     - [Standard form](#standard-form)
@@ -142,5 +142,5 @@ For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$1
 ### Practice Tests
 
 - [Target A](https://docs.google.com/forms/d/e/1FAIpQLSfdjMShxm1FjIxjmg_qVdqP4XQ38x0f86cX4CjFc3xl5qi88w/viewform): I can model a linear relationship with a standard or point-slope form equation.
-- [Target B](https://docs.google.com/forms/d/e/1FAIpQLSfwl0J2nFi5_LlUxOtnilfhtXLxrdpsKvAxTD5U6MY34MGlBw/viewform): I can change a linear equation from standard and/or point-slope form eqaution to slope intercept form.
+- [Target B](https://docs.google.com/forms/d/e/1FAIpQLSfwl0J2nFi5_LlUxOtnilfhtXLxrdpsKvAxTD5U6MY34MGlBw/viewform): I can change a linear equation from standard and/or point-slope form equation to slope intercept form.
 - [Target C](https://docs.google.com/forms/d/e/1FAIpQLSf6lQ-GOXLKsM0XaoPQ7KWra0290Ax3l41-DOdPbykgMGxUeg/viewform): I can link the form of a linear equation to particular contexts.
