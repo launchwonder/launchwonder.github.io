@@ -21,4 +21,9 @@ Click the links to test your knowledge of the target.
 
 ### Homework (2019-2020)
 
-To be determined.
+- Pages 22 - 23 (Substitution): All
+- Pages 24 - 25 (Elimination): All
+- Pages 27 - 28 (Graphing): All
+- Page 31: All 
+- Pages 32 – 33 (Word problems): Any four problems
+- Pages 34 – 36 (Practice test): All
