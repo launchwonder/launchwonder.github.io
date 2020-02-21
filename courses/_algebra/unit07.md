@@ -1,6 +1,6 @@
 ---
 title: Unit 7
-topic: "Inequalities"
+topic: "One and Two Variable Inequalities"
 permalink: inequalities
 published: true
 ---
