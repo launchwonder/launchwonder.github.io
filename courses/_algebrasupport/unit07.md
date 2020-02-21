@@ -19,9 +19,9 @@ Click the links to test your knowledge of the target.
 - **[Target 7E](https://goo.gl/forms/287ROC8v0QusoFao1):** I can model situations with inequalities.
 
 ### Daily Four
-- [Day 1: Graphing one variable](https://forms.gle/o3Cm4pWxMZZkaUvKA)
-- [Day 2](https://forms.gle/Uqsc1qPEZHC8fuaH7): Solving one variable
-- [Day 3](https://forms.gle/UikjZCzwmLR87EBAA)
-- [Day 4](https://forms.gle/AenyHiHsaxbNTbVD8)
-- [Day 5](https://forms.gle/kwbuENQwoT3cJHmH6)
-- [Day 6](https://forms.gle/bBWMBw3f68xES5pa9)
+- [Day 1: Graphing one variable inequalities](https://forms.gle/o3Cm4pWxMZZkaUvKA)
+- [Day 2: Solving one variable inequalities](https://forms.gle/Uqsc1qPEZHC8fuaH7)
+- [Day 3: Graphing two variable inequalities](https://forms.gle/UikjZCzwmLR87EBAA)
+- [Day 4: Graphing and solving one and two variable inequalities](https://forms.gle/AenyHiHsaxbNTbVD8)
+- [Day 5: Graphing two variable compound inequalities](https://forms.gle/kwbuENQwoT3cJHmH6)
+- [Day 6: Review](https://forms.gle/bBWMBw3f68xES5pa9)
