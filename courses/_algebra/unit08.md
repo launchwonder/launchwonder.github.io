@@ -1,12 +1,13 @@
 ---
 title: Unit 8
 topic: "Exponential Functions"
+permalink: exponentials
 published: true
 ---
 
 ### Contents <!-- omit in toc -->
 - [Targets](#targets)
-- [Daily Four](#daily-four)
+- [Homework (2019-2020)](#homework-2019-2020)
 
 ### Targets
 
@@ -16,12 +17,12 @@ Click the links to test your knowledge of the target.
 - **[Target 8B](https://forms.gle/NWFYFqnK3ce6m7JFA):** I can explain the properties of a negative, fractional and zero exponents.
 - **[Target 8C](https://forms.gle/4g9KganBHLjqmbrBA):** I can identify which situations can be modeled with exponential functions.
 
-### Daily Four
-- [Day 1: Reviewing expressions and equations](https://forms.gle/7LjB3poTDNL34sHH8)
-<!-- 
-[Day 2: Solving one variable inequalities](https://forms.gle/Uqsc1qPEZHC8fuaH7)
-[Day 3: Graphing two variable inequalities](https://forms.gle/UikjZCzwmLR87EBAA)
-[Day 4: Graphing and solving one and two variable inequalities](https://forms.gle/AenyHiHsaxbNTbVD8)
-[Day 5: Graphing two variable compound inequalities](https://forms.gle/kwbuENQwoT3cJHmH6)
-[Day 6: Review](https://forms.gle/bBWMBw3f68xES5pa9) 
--->
+### Homework (2019-2020)
+
+- Guided notes: All
+- 13-16 (Growth, Decay): All
+- 18-24 (Exponential functions): All
+- 25-26 (Exponent rules): All
+- 27-32 (Practice test): All
+- 33-34 (Challenge problems): All
+- Note that we’ll do pp. 13, 15, and 16 together in class.
