@@ -19,3 +19,4 @@ Click the links to test your knowledge of the target.
 ### Daily Four
 - [Day 1: Reviewing expressions and equations](https://forms.gle/7LjB3poTDNL34sHH8)
 - [Day 2: Modeling exponential growth](https://forms.gle/QasNPkcnQrEts4c76)
+- [Day 3: Modeling exponential growth](https://forms.gle/D5VwDCP7bReQfJxd8)
