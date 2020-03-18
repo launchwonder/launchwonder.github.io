@@ -131,7 +131,7 @@ For example, let's say Ali has \\$100 to spend on socks and hats. Socks are \\$1
 - Page 19: Find three equations
 - Page 20: All
 - Page 21: All
-- Page 22: All
+- Page 22: Odd
 - Page 23: Even
 - Page 24: Odd
 - Page 25-26: Any three
