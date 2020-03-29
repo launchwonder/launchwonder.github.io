@@ -2,7 +2,7 @@
 title: Unit 9
 topic: "Quadratic Equations"
 permalink: quadratic
-published: true
+published: false
 ---
 
 ### Contents <!-- omit in toc -->
