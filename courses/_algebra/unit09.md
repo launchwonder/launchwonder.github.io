@@ -1,7 +1,7 @@
 ---
-title: Unit 8
-topic: "Exponential Functions"
-permalink: exponential
+title: Unit 9
+topic: "Quadratic Equations"
+permalink: quadratic
 published: true
 ---
 
