@@ -7,7 +7,7 @@ published: true
 
 ### Contents <!-- omit in toc -->
 - [Targets](#targets)
-- [Homework (2019-2020)](#homework-2019-2020)
+- [Homework](#homework)
 
 ### Targets
 
@@ -17,7 +17,7 @@ Click the links to test your knowledge of the target.
 - **[Target 8B](https://forms.gle/NWFYFqnK3ce6m7JFA):** I can explain the properties of a negative, fractional and zero exponents.
 - **[Target 8C](https://forms.gle/4g9KganBHLjqmbrBA):** I can identify which situations can be modeled with exponential functions.
 
-### Homework (2019-2020)
+### Homework
 
 - Guided notes: All
 - 13-16 (Growth, Decay): All
