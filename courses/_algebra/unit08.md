@@ -7,6 +7,7 @@ published: true
 
 ### Contents <!-- omit in toc -->
 - [Targets](#targets)
+- [Packet](#packet)
 - [Homework](#homework)
 
 ### Targets
@@ -16,6 +17,10 @@ Click the links to test your knowledge of the target.
 - **[Target 8A](https://forms.gle/YurW3wfFYnq1FrkMA):** I can write, represent, evaluate and solve exponential functions using a table, graph, or situation.
 - **[Target 8B](https://forms.gle/NWFYFqnK3ce6m7JFA):** I can explain the properties of a negative, fractional and zero exponents.
 - **[Target 8C](https://forms.gle/4g9KganBHLjqmbrBA):** I can identify which situations can be modeled with exponential functions.
+
+### Packet
+
+Click [here](files/algebra/unit8packet.pdf) to download the packet as a PDF.
 
 ### Homework
 
