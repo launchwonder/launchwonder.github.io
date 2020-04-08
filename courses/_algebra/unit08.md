@@ -10,6 +10,7 @@ published: true
 - [Tutorials](#tutorials)
     - [Exponent rules](#exponent-rules)
     - [Exponential functions](#exponential-functions)
+    - [Graphing exponential functions](#graphing-exponential-functions)
 - [Packet](#packet)
 - [Homework](#homework)
 
@@ -33,6 +34,12 @@ Click the links to test your knowledge of the target.
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tdOTVXPVEHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Graphing exponential functions
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Tfi8t4JmOk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Packet
