@@ -8,6 +8,7 @@ published: true
 ### Contents <!-- omit in toc -->
 - [Targets](#targets)
 - [Tutorials](#tutorials)
+    - [Finding assignments in Khan Academy](#finding-assignments-in-khan-academy)
     - [Exponent rules](#exponent-rules)
     - [Exponential functions](#exponential-functions)
     - [Graphing exponential functions](#graphing-exponential-functions)
@@ -24,6 +25,12 @@ Click the links to test your knowledge of the target.
 - **[Target 8C](https://forms.gle/4g9KganBHLjqmbrBA):** I can identify which situations can be modeled with exponential functions.
 
 ### Tutorials
+
+##### Finding assignments in Khan Academy
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hp_mU5IZ1eQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ##### Exponent rules
 
