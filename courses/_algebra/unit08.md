@@ -13,6 +13,7 @@ published: true
     - [Exponential functions](#exponential-functions)
     - [Graphing exponential functions](#graphing-exponential-functions)
     - [Exponential functions in context](#exponential-functions-in-context)
+    - [Radicals and rational exponents](#radicals-and-rational-exponents)
 - [Packet](#packet)
 - [Homework](#homework)
 
@@ -54,6 +55,12 @@ Click the links to test your knowledge of the target.
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-rD-yyohhGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Radicals and rational exponents
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wxq5TjyYAHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Packet
