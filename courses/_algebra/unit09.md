@@ -2,12 +2,17 @@
 title: Unit 9
 topic: "Quadratic Equations"
 permalink: quadratic
-published: false
+published: true
 ---
 
 ### Contents <!-- omit in toc -->
 - [Targets](#targets)
+- [Tutorial videos](#tutorial-videos)
+    - [What is a polynomial?](#what-is-a-polynomial)
+    - [Factoring and distributing with quadratics](#factoring-and-distributing-with-quadratics)
+    - [Factoring special cases](#factoring-special-cases)
 - [Homework](#homework)
+    - [Week 1](#week-1)
 
 ### Targets
 
@@ -17,13 +22,26 @@ Click the links to test your knowledge of the target.
 - **[Target 9B](https://forms.gle/q2d4H2PT2xfEggx8A):** I can graph quadratic functions given a table or equation in any form.
 - **[Target 9C](https://forms.gle/C63VcbKPgozWmBZp7):** I can solve quadratic equations algebraically or graphically.
 
+### Tutorial videos
+
+##### What is a polynomial?
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5g95JpAOvY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Factoring and distributing with quadratics
+
+To be posted Tuesday, April 14.
+
+##### Factoring special cases
+
+To be posted Wednesday, April 15.
+
 ### Homework
 
-**Target A**
-- 
-
-**Target B**
-- 
-
-**Target C**
-- 
+##### Week 1
+- [Polynomials intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-monomial-polynomial/e/polynomials-intro)
+- [Multiply binomials intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiplying_expressions_0.5)
+- [Quadratics: Multiplying and Factoring: Quiz 2](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/quiz/x2f8bb11595b61c86:quadratics-multiplying-factoring-quiz-2?modal=1)
+- [Quadratics: Multiplying and Factoring: Quiz 3](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/quiz/x2f8bb11595b61c86:quadratics-multiplying-factoring-quiz-3?modal=1)
