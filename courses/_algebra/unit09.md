@@ -13,6 +13,7 @@ published: true
     - [Factoring special cases](#factoring-special-cases)
 - [Homework](#homework)
     - [Week 1](#week-1)
+- [Problems of the Week](#problems-of-the-week)
 
 ### Targets
 
@@ -45,3 +46,7 @@ To be posted Wednesday, April 15.
 - [Multiply binomials intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiplying_expressions_0.5)
 - [Quadratics: Multiplying and Factoring: Quiz 2](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/quiz/x2f8bb11595b61c86:quadratics-multiplying-factoring-quiz-2?modal=1)
 - [Quadratics: Multiplying and Factoring: Quiz 3](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/quiz/x2f8bb11595b61c86:quadratics-multiplying-factoring-quiz-3?modal=1)
+
+### Problems of the Week
+
+Find them on [FlipGrid](https://flipgrid.com/gomath38).
