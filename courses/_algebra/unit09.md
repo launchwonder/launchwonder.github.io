@@ -39,7 +39,9 @@ Click the links to test your knowledge of the target.
 
 ##### Factoring special cases
 
-To be posted Wednesday, April 15.
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dxnUOJYRgnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Homework
 
