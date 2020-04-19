@@ -14,6 +14,7 @@ published: true
       - [Factoring special cases](#factoring-special-cases)
   - [Week 2](#week-2)
       - [Parabolas!](#parabolas)
+      - [Graphing quadratics in factored form](#graphing-quadratics-in-factored-form)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
   - [Week 2](#week-2-1)
@@ -55,6 +56,12 @@ Click the links to test your knowledge of the target.
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/14hPgEfoN4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Graphing quadratics in factored form
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vi0sGlYlx54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Homework
