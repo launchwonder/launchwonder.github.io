@@ -74,7 +74,11 @@ Click the links to test your knowledge of the target.
 
 ### Week 2
 
-To be posted Monday, April 20.
+- [Parabolas intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/e/parabolas-intro)
+- [Interpret a quadratic graph](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:intro-parabolas/e/interpret-quadratic-graph)
+- [Zero product property](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/e/zero-product-property)
+- [Graph quadratics in factored form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
+- [Graph quadratics in vertex form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/e/graphing_parabolas_1)
 
 ## Problems of the Week
 
