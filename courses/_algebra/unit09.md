@@ -16,6 +16,7 @@ published: true
       - [Parabolas!](#parabolas)
       - [Graphing quadratics in factored form](#graphing-quadratics-in-factored-form)
       - [Multiplying with the area model](#multiplying-with-the-area-model)
+    - [Graphing quadratics with vertex form](#graphing-quadratics-with-vertex-form)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
   - [Week 2](#week-2-1)
@@ -69,6 +70,12 @@ Click the links to test your knowledge of the target.
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/eoUNShUfmjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Graphing quadratics with vertex form
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9oEgTL4dpg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Homework
