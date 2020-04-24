@@ -19,6 +19,7 @@ published: true
       - [Graphing quadratics with vertex form](#graphing-quadratics-with-vertex-form)
   - [Week 3](#week-3)
       - [Graphing quadratics with a table](#graphing-quadratics-with-a-table)
+      - [Solving quadratics by factoring](#solving-quadratics-by-factoring)
       - [Solving quadratics by taking the square root](#solving-quadratics-by-taking-the-square-root)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
@@ -88,6 +89,12 @@ Click the links to test your knowledge of the target.
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dHjcR279Kxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Solving quadratics by factoring
+
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SQHvZ2vqJpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##### Solving quadratics by taking the square root
