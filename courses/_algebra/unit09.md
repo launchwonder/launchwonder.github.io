@@ -17,10 +17,13 @@ published: true
       - [Graphing quadratics in factored form](#graphing-quadratics-in-factored-form)
       - [Multiplying with the area model](#multiplying-with-the-area-model)
       - [Graphing quadratics with vertex form](#graphing-quadratics-with-vertex-form)
+  - [Week 3](#week-3)
+      - [Graphing quadratics with a table](#graphing-quadratics-with-a-table)
       - [Solving quadratics by taking the square root](#solving-quadratics-by-taking-the-square-root)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
   - [Week 2](#week-2-1)
+  - [Week 3](#week-3-1)
 - [Problems of the Week](#problems-of-the-week)
 
 ## Targets
@@ -79,6 +82,14 @@ Click the links to test your knowledge of the target.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/9oEgTL4dpg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Week 3
+
+##### Graphing quadratics with a table
+
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dHjcR279Kxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ##### Solving quadratics by taking the square root
 
 <div class="responsive-video">
@@ -100,6 +111,10 @@ Click the links to test your knowledge of the target.
 - [Zero product property](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/e/zero-product-property)
 - [Graph quadratics in factored form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
 - [Graph quadratics in vertex form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/e/graphing_parabolas_1)
+
+### Week 3
+
+To be posted Sunday, April 26.
 
 ## Problems of the Week
 
