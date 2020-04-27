@@ -21,10 +21,12 @@ published: true
       - [Graphing quadratics with a table](#graphing-quadratics-with-a-table)
       - [Solving quadratics by factoring](#solving-quadratics-by-factoring)
       - [Solving quadratics by taking the square root](#solving-quadratics-by-taking-the-square-root)
+  - [Week 4](#week-4)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
   - [Week 2](#week-2-1)
   - [Week 3](#week-3-1)
+  - [Week 4](#week-4-1)
 - [Problems of the Week](#problems-of-the-week)
 
 ## Targets
@@ -103,6 +105,28 @@ Click the links to test your knowledge of the target.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DnECT_DxKhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Week 4
+
+To be published Monday, May 4.
+
+<!-- ##### The Quadratic Formula!
+
+<div class="responsive-video">
+
+</div>
+
+##### Using the discriminate to determine number of solutions
+
+<div class="responsive-video">
+    
+</div>
+
+##### How completing the square completes the quadratic formula
+
+<div class="responsive-video">
+    
+</div> -->
+
 ## Homework
 
 ### Week 1
@@ -123,6 +147,14 @@ Click the links to test your knowledge of the target.
 
 - [Quadratics by taking square roots intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)
 - [Quadratics by factoring intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/e/solving_quadratics_by_factoring)
+
+### Week 4
+
+To be published Monday, May 4.
+
+<!-- - [Quadratic formula](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/e/quadratic_equation)
+- [Number of solutions of quadratic equations](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/e/determine-the-number-of-solutions-of-a-quadratic-equation)
+- [Completing the square intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/e/completing_the_square_in_quadratic_expressions) -->
 
 ## Problems of the Week
 
