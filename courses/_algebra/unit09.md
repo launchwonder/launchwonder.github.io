@@ -121,7 +121,8 @@ Click the links to test your knowledge of the target.
 
 ### Week 3
 
-To be posted Sunday, April 26.
+- [Quadratics by taking square roots intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)
+- [Quadratics by factoring intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratics-solve-factoring/e/solving_quadratics_by_factoring)
 
 ## Problems of the Week
 
