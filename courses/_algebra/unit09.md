@@ -112,7 +112,7 @@ To be published Monday, May 4.
 <!-- ##### The Quadratic Formula!
 
 <div class="responsive-video">
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y28g3XFlGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##### Using the discriminate to determine number of solutions
