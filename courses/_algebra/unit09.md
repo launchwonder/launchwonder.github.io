@@ -118,7 +118,7 @@ To be published Monday, May 4.
 ##### Using the discriminate to determine number of solutions
 
 <div class="responsive-video">
-    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jePzXLam9sM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ##### How completing the square completes the quadratic formula
