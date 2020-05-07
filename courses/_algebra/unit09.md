@@ -25,11 +25,16 @@ published: true
       - [The Quadratic Formula!](#the-quadratic-formula)
       - [Using the discriminate to determine number of solutions](#using-the-discriminate-to-determine-number-of-solutions)
       - [Proving the quadratic formula by completing the square](#proving-the-quadratic-formula-by-completing-the-square)
+  - [Week 5](#week-5)
+      - [Quadratic word problems with factored form](#quadratic-word-problems-with-factored-form)
+      - [Quadratic word problems with vertex form](#quadratic-word-problems-with-vertex-form)
+      - [Quadratic word problems with standard form](#quadratic-word-problems-with-standard-form)
 - [Homework](#homework)
   - [Week 1](#week-1-1)
   - [Week 2](#week-2-1)
   - [Week 3](#week-3-1)
   - [Week 4](#week-4-1)
+  - [Week 5](#week-5-1)
 - [Problems of the Week](#problems-of-the-week)
 
 ## Targets
@@ -130,6 +135,23 @@ To be published Monday, May 4.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EMu7_DEXYOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Week 5
+
+##### Quadratic word problems with factored form
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/74LbtSnIgzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Quadratic word problems with vertex form
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/AjKD2LUDgyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+##### Quadratic word problems with standard form
+<div class="responsive-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JrqyV1oVepE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Homework
 
 ### Week 1
@@ -156,6 +178,10 @@ To be published Monday, May 4.
 - [Quadratic formula](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/e/quadratic_equation)
 - [Number of solutions of quadratic equations](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/e/determine-the-number-of-solutions-of-a-quadratic-equation)
 - [Completing the square intro](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-square-quadratics/e/completing_the_square_in_quadratic_expressions)
+
+### Week 5
+
+To be posted Monday, May 11.
 
 ## Problems of the Week
 
