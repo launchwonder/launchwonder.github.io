@@ -115,8 +115,6 @@ Click the links to test your knowledge of the target.
 
 ### Week 4
 
-To be published Monday, May 4.
-
 ##### The Quadratic Formula!
 
 <div class="responsive-video">
@@ -181,7 +179,9 @@ To be published Monday, May 4.
 
 ### Week 5
 
-To be posted Monday, May 11.
+- [Quadratic word problems with factored form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:factored-form-quadratics/e/quadratic-word-problems-factored-form)
+- [Quadratic word problems with vertex form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:vertex-form/e/quadratic-word-problems-vertex-form)
+- [Quadratic word problems with standard form](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:standard-form-quadratic/e/key-features-quadratics)
 
 ## Problems of the Week
 
