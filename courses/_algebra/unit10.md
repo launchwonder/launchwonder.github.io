@@ -8,12 +8,12 @@ published: true
 ## Contents <!-- omit in toc -->
 - [Targets](#targets)
 - [Tutorial videos](#tutorial-videos)
-      - [Sequences Intro](#sequences-intro)
-      - [Arithmetic Sequences in Explicit Form](#arithmetic-sequences-in-explicit-form)
-      - [Arithmetic Sequences in Recursive Form](#arithmetic-sequences-in-recursive-form)
-      - [Geometric Sequences in Explicit Form](#geometric-sequences-in-explicit-form)
-      - [Geometric Sequences in Recursive Form](#geometric-sequences-in-recursive-form)
-      - [Sequences in Word Problems](#sequences-in-word-problems)
+    - [Sequences Intro](#sequences-intro)
+    - [Arithmetic Sequences in Explicit Form](#arithmetic-sequences-in-explicit-form)
+    - [Arithmetic Sequences in Recursive Form](#arithmetic-sequences-in-recursive-form)
+    - [Geometric Sequences in Explicit Form](#geometric-sequences-in-explicit-form)
+    - [Geometric Sequences in Recursive Form](#geometric-sequences-in-recursive-form)
+    - [Sequences in Word Problems](#sequences-in-word-problems)
 - [Homework](#homework)
 
 ## Targets
@@ -25,37 +25,37 @@ Click the links to test your knowledge of the target.
 
 ## Tutorial videos
 
-##### Sequences Intro
+#### Sequences Intro
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/KsFw6h_-Bxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Arithmetic Sequences in Explicit Form
+#### Arithmetic Sequences in Explicit Form
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ES6_Eql8dFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Arithmetic Sequences in Recursive Form
+#### Arithmetic Sequences in Recursive Form
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/19GMpUVStJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Geometric Sequences in Explicit Form
+#### Geometric Sequences in Explicit Form
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BNjOGHJUz8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Geometric Sequences in Recursive Form
+#### Geometric Sequences in Recursive Form
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XS36WnsPkZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-##### Sequences in Word Problems
+#### Sequences in Word Problems
 
 <div class="responsive-video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DHTh2TlnzJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
