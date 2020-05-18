@@ -64,11 +64,11 @@ Click the links to test your knowledge of the target.
 ## Homework
 
 - [Extend arithmetic sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/e/arithmetic_sequences_1?modal=1)
-- [Recursive formulas for arithmetic sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/e/recursive-formulas-for-arithmetic-sequences?modal=1)
 - [Explicit formulas for arithmetic sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/e/explicit-formulas-for-arithmetic-sequences?modal=1)
+- [Recursive formulas for arithmetic sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-arithmetic-sequences/e/recursive-formulas-for-arithmetic-sequences?modal=1)
 - [Extend geometric sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/e/geometric_sequences_1?modal=1)
-- [Recursive formulas for geometric sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-geometric-sequences/e/recursive-formulas-for-geometric-sequences?modal=1)
 - [Explicit formulas for geometric sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-geometric-sequences/e/sequences-as-functions?modal=1)
+- [Recursive formulas for geometric sequences](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:constructing-geometric-sequences/e/recursive-formulas-for-geometric-sequences?modal=1)
 - [Sequences word problems](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:modeling-with-sequences/e/recursive_explicit?modal=1)
 
 <!-- ## Problems of the Week
