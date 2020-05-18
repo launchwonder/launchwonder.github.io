@@ -8,11 +8,11 @@ published: true
 ## Contents <!-- omit in toc -->
 - [Targets](#targets)
 - [Tutorial videos](#tutorial-videos)
-    - [Week 1](#week-1)
+  - [Week 1](#week-1)
       - [Sequences Intro](#sequences-intro)
       - [Arithmetic Sequences in Recursive Form](#arithmetic-sequences-in-recursive-form)
       - [Arithmetic Sequences in Explicit Form](#arithmetic-sequences-in-explicit-form)
-    - [Week 2](#week-2)
+  - [Week 2](#week-2)
       - [Geometric Sequences in Recursive Form](#geometric-sequences-in-recursive-form)
       - [Geometric Sequences in Explicit Form](#geometric-sequences-in-explicit-form)
       - [Sequences in Word Problems](#sequences-in-word-problems)
@@ -29,7 +29,7 @@ Click the links to test your knowledge of the target.
 
 ## Tutorial videos
 
-#### Week 1
+### Week 1
 
 ##### Sequences Intro
 
@@ -49,7 +49,7 @@ Click the links to test your knowledge of the target.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ES6_Eql8dFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Week 2
+### Week 2
 
 ##### Geometric Sequences in Recursive Form
 
