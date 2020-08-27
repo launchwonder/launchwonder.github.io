@@ -6,8 +6,8 @@ date_format: "%b %-d, %Y"
 # Collections
 collections_dir: courses
 collections:
-  algebra:
-    title: Algebra
+  m1math:
+    title: M1 Math
     output: true
   algebrasupport:
     title: Algebra Support
@@ -24,7 +24,7 @@ defaults:
       layout: "default"
   - scope:
       path: ""
-      type: "algebra"
+      type: "m1math"
     values:
       layout: "unit"
   - scope:
