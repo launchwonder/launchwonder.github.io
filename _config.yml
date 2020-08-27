@@ -9,8 +9,8 @@ collections:
   m1math:
     title: M1 Math
     output: true
-  algebrasupport:
-    title: Algebra Support
+  m2math:
+    title: M2 Math
     output: true
   computerscience:
     title: Computer Science
@@ -29,7 +29,7 @@ defaults:
       layout: "unit"
   - scope:
       path: ""
-      type: "algebrasupport"
+      type: "m2math"
     values:
       layout: "unit"
   - scope:
